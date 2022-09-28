@@ -1,0 +1,20 @@
+.character-card {
+    display: flex;
+    flex-direction: column;
+    background: ghostwhite;
+}
+
+h3 {
+    text-align: center;
+}
+
+.image {
+    display: flex;
+    justify-content: center;
+}
+
+
+p {
+    text-align: center;
+    font-style: italic;
+}

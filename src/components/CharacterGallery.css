@@ -1,0 +1,18 @@
+.cards {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.card {
+    border: 3px solid midnightblue;
+    margin: 2rem 2rem;
+    border-radius: 9px;
+    box-shadow: 12px 12px 12px midnightblue;
+}
+
+div  {
+    justify-content: center;
+    text-align: center;
+}
